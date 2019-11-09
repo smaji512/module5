@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: edureka.co.Test_id.NewTest
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 7.419 sec
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.89 sec - in edureka.co.Test_id.NewTest

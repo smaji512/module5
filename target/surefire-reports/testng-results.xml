@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="edureka.co.Test_id.NewTest" duration-ms="6973" started-at="2019-11-09T16:43:14Z" finished-at="2019-11-09T16:43:21Z">
+  <suite name="Surefire suite" duration-ms="6497" started-at="2019-11-09T17:28:07Z" finished-at="2019-11-09T17:28:13Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="6973" started-at="2019-11-09T16:43:14Z" finished-at="2019-11-09T16:43:21Z">
+    <test name="Surefire test" duration-ms="6497" started-at="2019-11-09T17:28:07Z" finished-at="2019-11-09T17:28:13Z">
       <class name="edureka.co.Test_id.NewTest">
-        <test-method status="PASS" signature="verifylogin()[pri:0, instance:edureka.co.Test_id.NewTest@58ceff1]" name="verifylogin" duration-ms="6961" started-at="2019-11-09T16:43:14Z" finished-at="2019-11-09T16:43:21Z">
+        <test-method status="PASS" signature="verifylogin()[pri:0, instance:edureka.co.Test_id.NewTest@2c8d66b2]" name="verifylogin" duration-ms="6478" started-at="2019-11-09T17:28:07Z" finished-at="2019-11-09T17:28:13Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifylogin -->
       </class> <!-- edureka.co.Test_id.NewTest -->
-    </test> <!-- Command line test -->
-  </suite> <!-- edureka.co.Test_id.NewTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
 </testng-results>
