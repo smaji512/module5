@@ -2,12 +2,12 @@
 <testng-results skipped="0" failed="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Command line suite" duration-ms="5892" started-at="2019-11-09T16:20:02Z" finished-at="2019-11-09T16:20:08Z">
+  <suite name="Command line suite" duration-ms="6312" started-at="2019-11-09T16:35:45Z" finished-at="2019-11-09T16:35:51Z">
     <groups>
     </groups>
-    <test name="Command line test" duration-ms="5892" started-at="2019-11-09T16:20:02Z" finished-at="2019-11-09T16:20:08Z">
+    <test name="Command line test" duration-ms="6312" started-at="2019-11-09T16:35:45Z" finished-at="2019-11-09T16:35:51Z">
       <class name="edureka.co.Test_id.NewTest">
-        <test-method status="PASS" signature="verifylogin()[pri:0, instance:edureka.co.Test_id.NewTest@6e8dacdf]" name="verifylogin" duration-ms="5873" started-at="2019-11-09T16:20:02Z" finished-at="2019-11-09T16:20:08Z">
+        <test-method status="PASS" signature="verifylogin()[pri:0, instance:edureka.co.Test_id.NewTest@6e8dacdf]" name="verifylogin" duration-ms="6294" started-at="2019-11-09T16:35:45Z" finished-at="2019-11-09T16:35:51Z">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifylogin -->
