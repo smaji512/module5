@@ -13,7 +13,7 @@ public class NewTest {
 		driver.manage().window().maximize();
 		driver.findElement(By.name("login")).sendKeys("Testuser");
 		driver.findElement(By.name("password")).sendKeys("TestPWD");
-		driver.findElement(By.name("click")).click();
+//		driver.findElement(By.name("click")).click();
 		String x = driver.getTitle();
 		System.out.println(x);
   }
